@@ -29,9 +29,3 @@ MusicGen AI is a cutting-edge generative AI project that transforms text descrip
 
 ---
 
-## 📦 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/musicgen-ai.git
-   cd musicgen-ai
